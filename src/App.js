@@ -9,7 +9,7 @@ function App() {
   };
   return (
     <div className="App">
-      <h1 style={playerStyle}>My Player App</h1>
+      <h1 style={playerStyle}> FIFA Player </h1>
       <PlayersList />
     </div>
   );
